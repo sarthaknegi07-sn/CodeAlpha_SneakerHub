@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SneakerHub</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav>
+
+        <div class="logo">
+            👟 SneakerHub
+        </div>
+
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Categories</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+
+        <input
+        type="text"
+        id="search"
+        placeholder="Search Sneakers...">
+        
+        <button class="cart-btn" onclick="window.location.href='cart.html'">
+            🛒 Cart
+        </button>
+
+    </nav>
+
+
+    <!-- Hero Section -->
+    <section class="hero">
+
+        <div class="hero-text">
+
+            <h1>Find Your Perfect Sneakers</h1>
+
+            <p>
+                Explore the latest collection from Nike,
+                Adidas, Puma and more.
+            </p>
+
+            <button>Shop Now</button>
+
+        </div>
+
+        <div class="hero-image">
+
+            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700" alt="shoe">
+
+        </div>
+
+    </section>
+
+
+    <!-- Featured Products -->
+    <section class="products">
+
+        <h2>Featured Sneakers</h2>
+
+        <div class="product-grid" id="product-grid">
+            <!-- Products will come from script.js -->
+        </div>
+
+    </section>
+
+    <footer>
+
+    <div class="footer-content">
+
+        <div>
+
+            <h3>👟 SneakerHub</h3>
+
+            <p>Your trusted sneaker shopping destination.</p>
+
+        </div>
+
+        <div>
+
+            <h4>Quick Links</h4>
+
+            <p>Home</p>
+
+            <p>Products</p>
+
+            <p>Cart</p>
+
+        </div>
+
+        <div>
+
+            <h4>Contact</h4>
+
+            <p>Email: support@sneakerhub.com</p>
+
+            <p>Phone: +91 9876543210</p>
+
+        </div>
+
+    </div>
+
+    <hr>
+
+    <p class="copyright">
+        © 2026 SneakerHub. All Rights Reserved.
+    </p>
+
+</footer>
+    
+    <!-- JS -->
+    <script src="script.js"></script>
+
+</body>
+</html>

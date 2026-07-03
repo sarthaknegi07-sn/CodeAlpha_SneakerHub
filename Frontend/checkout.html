@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - SneakerHub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <div class="logo">👟 SneakerHub</div>
+</nav>
+
+<section class="products">
+
+    <h2>Checkout</h2>
+
+    <form id="checkout-form">
+
+        <input type="text" id="name" placeholder="Full Name" required>
+
+        <input type="text" id="address" placeholder="Address" required>
+
+        <input type="tel" id="phone" placeholder="Phone Number" required>
+
+        <select id="payment" required>
+            <option value="">Select Payment Method</option>
+            <option>Cash on Delivery</option>
+            <option>UPI</option>
+            <option>Credit Card</option>
+        </select>
+
+        <button type="submit">Place Order</button>
+
+    </form>
+
+</section>
+
+<script src="checkout.js"></script>
+
+</body>
+</html>
