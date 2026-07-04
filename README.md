@@ -99,19 +99,19 @@ npm start
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png.png)
 
 ### Product Listing
-![Product Listing](screenshots/products.png)
+![Product Listing](screenshots/products.png.png)
 
 ### Product Details
-![Product Details](screenshots/product-details.png)
+![Product Details](screenshots/product-details.png.png)
 
 ### Cart Page
-![Cart Page](screenshots/cart.png)
+![Cart Page](screenshots/cart.png.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.png.png)
 
 ---
 
