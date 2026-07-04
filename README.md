@@ -99,7 +99,7 @@ npm start
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](C:\Users\sarth\OneDrive\Desktop\SneakerHub\screenshots)
 
 ### Product Listing
 ![Product Listing](screenshots/products.png)
