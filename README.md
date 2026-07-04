@@ -98,15 +98,20 @@ npm start
 
 ## 📷 Screenshots
 
-Add screenshots of your project here.
+### Home Page
+![Home Page](screenshots/home.png)
 
-Example:
+### Product Listing
+![Product Listing](screenshots/products.png)
 
-- Home Page
-- Product Listing
-- Product Details
-- Cart
-- Login Page
+### Product Details
+![Product Details](screenshots/product-details.png)
+
+### Cart Page
+![Cart Page](screenshots/cart.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
 
 ---
 
